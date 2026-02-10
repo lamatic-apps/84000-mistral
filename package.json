@@ -1,0 +1,10 @@
+{
+  "name": "84000-mistral",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "dependencies": {
+    "@mistralai/mistralai": "^1.14.0",
+    "zod": "^3.25.76"
+  }
+}
