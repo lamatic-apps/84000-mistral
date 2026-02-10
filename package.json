@@ -2,9 +2,14 @@
   "name": "84000-mistral",
   "version": "1.0.0",
   "private": true,
-  "type": "module",
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start"
+  },
   "dependencies": {
     "@mistralai/mistralai": "^1.14.0",
+    "next": "^15.1.0",
     "zod": "^3.25.76"
   }
 }
