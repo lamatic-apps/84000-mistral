@@ -8,8 +8,7 @@
     "start": "next start"
   },
   "dependencies": {
-    "@mistralai/mistralai": "^1.14.0",
     "next": "^15.1.0",
-    "zod": "^3.25.76"
+    "pdf-lib": "^1.17.1"
   }
 }
